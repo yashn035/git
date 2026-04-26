@@ -1,0 +1,26 @@
+step 1 : open file
+https://github.com/vmaingade21-source/ecommerce-ui
+
+
+
+step 2 : run 
+--> npm install
+--> npm start
+
+
+
+step 3: create repo
+
+
+
+step 4: run all this 
+
+echo "# ecommerce--ui" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yashn035/ecommerce--ui.git
+git push -u origin maingit remote add origin https://github.com/yashn035/ecommerce--ui.git 
+git branch -M main
+git push -u origin main
