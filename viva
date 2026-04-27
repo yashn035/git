@@ -1,0 +1,235 @@
+                                Mad Viva   
+
+ 
+
+Q1. What is Flutter? 
+
+Flutter is an open-source UI toolkit by Google used to build cross-platform apps (Android, iOS, Web, Desktop) from a single codebase using Dart. 
+
+  
+
+Q2. What is Dart? 
+
+Dart is a programming language developed by Google used to create Flutter apps. It is fast and optimized for UI development. 
+
+   
+
+Q3. What is a widget in Flutter? 
+
+A widget is the basic building block of Flutter UI. Everything in Flutter is a widget. 
+
+  
+
+Q4. Types of widgets in Flutter? 
+
+1. Stateless Widget - A widget whose UI does not change after it is created. 
+
+2. Stateful Widget - A widget whose UI can change dynamically when data changes. 
+
+ 
+
+Q5. Common widgets used in Flutter?  
+
+* Text 
+
+* Container 
+
+* Row 
+
+* Column 
+
+* Image 
+
+* Button 
+
+* Scaffold 
+
+* AppBar  
+
+Q6. What is manifest.json? 
+
+It is a JSON file that contains details of a Progressive Web App (PWA). 
+
+ manifest.json contain : 
+
+* App name 
+
+* Icons 
+
+* Theme color 
+
+* Background color 
+
+* Start URL 
+
+* Display mode 
+ 
+--> Why is manifest.json important? 
+
+It makes the web app installable and improves user experience. 
+
+ 
+
+Q7. What is Add to Home Screen? 
+
+A feature that allows users to install a web app on mobile home screen like a native app. 
+
+------------------x-----------------------------x--------------------------------------x--------------------------------- 
+
+Q8. What is Hot Reload in Flutter? 
+
+It updates UI instantly without restarting the app. 
+
+  
+
+Q9. What is Scaffold in Flutter? 
+
+It provides basic app layout like AppBar, Drawer, Body, BottomNavigationBar. 
+
+  
+
+Q10. What is pubspec.yaml? 
+
+It is a configuration file used to manage dependencies, assets, fonts in Flutter project. 
+
+  
+
+Q11. What is main() in Flutter? 
+
+It is the starting point of a Flutter application. 
+
+  
+
+Q12. What is runApp()? 
+
+It starts the Flutter app and loads the root widget. 
+
+ 
+
+----------------x------------------------------------x--------------------------------x------------------------- 
+
+10 experiment base   
+
+ 
+
+Q1. What is PWA? 
+
+Progressive Web App is a web application that works like a mobile app and can be installed on devices.  
+
+--> advantages of PWA? 
+
+Offline support, fast loading, installable, responsive design. 
+
+ 
+
+  
+
+Q2. What is GitHub Pages? 
+
+GitHub Pages is a free hosting service by GitHub used to deploy static websites. 
+
+  
+
+Q3. Why use GitHub Pages for deployment? 
+
+It is free, easy to use, and good for hosting frontend projects. 
+
+  
+
+Q4. What is the use of gh-pages package? 
+
+It is used to publish React build files to GitHub Pages. 
+
+  
+
+Q5. What is the purpose of npm run build? 
+
+It creates an optimized production version of the React app. 
+
+  
+
+Q6. What is the use of npm run deploy? 
+
+It builds the project and uploads it to GitHub Pages. 
+
+  
+
+Q7. What is homepage in package.json? 
+
+It defines the website URL where the app will be hosted. 
+
+  
+
+Q8. What is Git? 
+
+Git is a version control system used to track code changes. 
+
+  
+
+Q9. What is GitHub? 
+
+GitHub is an online platform used to store and manage Git repositories. 
+
+  
+
+Q10. What is repository? 
+
+A repository is a storage space for project files and code. 
+
+  
+
+Q11. What is the use of git init? 
+
+It initializes a new Git repository in the project folder. 
+
+  
+
+Q12. What is git add . command? 
+
+It adds all files to staging area. 
+
+  
+
+Q13. What is git commit? 
+
+It saves changes with a message in Git. 
+
+  
+
+Q14. What is git push? 
+
+It uploads local project files to GitHub repository. 
+
+  
+
+Q15. What is branch in Git? 
+
+A branch is a separate line of development in Git. 
+
+  
+
+Q16. What is main branch? 
+
+It is the default primary branch of a repository. 
+
+  
+
+Q17. Why is React app suitable for GitHub Pages? 
+
+Because React generates static files after build. 
+
+  
+
+Q18. Can backend be hosted on GitHub Pages? 
+
+No, GitHub Pages supports only static frontend files. 
+
+   
+
+Q19. What is conclusion of this experiment? 
+
+We successfully deployed Ecommerce PWA to GitHub Pages. 
+
+  
+
+ 
